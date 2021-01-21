@@ -6,7 +6,7 @@ public class Polygon {
 
     Polygon(int numberOfSides) {
         if (numberOfSides <= 2) {
-            throw new TooFewSidesException("The shape must have more than 2 local git sides", numberOfSides);
+            throw new TooFewSidesException("The shape must have more than resolved sides", numberOfSides);
         }
         this.numberOfSides = numberOfSides;
     }
