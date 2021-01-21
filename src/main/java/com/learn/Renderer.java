@@ -15,6 +15,6 @@ public class Renderer {
     }
 
     public void method1(){
-        System.out.println("New line is added to add feature154");
+        System.out.println("New line is added to add code merged by other branch");
     }
 }
