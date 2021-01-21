@@ -13,4 +13,8 @@ public class Renderer {
     public Colour getForegroundColour() {
         return palette.getPrimaryColour();
     }
+
+    public void method1(){
+        System.out.println("New line is added to add feature154");
+    }
 }
